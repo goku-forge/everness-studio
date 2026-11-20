@@ -1,3 +1,9 @@
+## Download
+[Download Latest APK (v2.0)](https://github.com/goku-forge/everness-studio/releases/latest)
+
+## Privacy Policy
+Read our [Privacy Policy](privacy.md).
+
 # Everness Studio
 
 An **offline-first, zero-ads mobile IDE** for Android—run Python (with 86+ data science packages & Matplotlib plots), JavaScript, SQLite, HTML/CSS, Markdown, and CSV right on your phone.
