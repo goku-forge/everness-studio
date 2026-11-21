@@ -37,7 +37,15 @@ Built by **GokuForge** (`gokuforge@gmail.com`).
 
 ## Screenshots
 
-> Add 3–4 screenshots of your Home screen, 3D Matplotlib plot, Nebula FX HTML preview, and AI Diff modal here.
+3D mini GTA with html code with fps indicator,
+Three.js 3D Torus Knot,
+Python: 3D Matplotlib.
+
+<img width="1272" height="2625" alt="44651" src="https://github.com/user-attachments/assets/a2b65fba-4c48-43ec-9a52-fe3627f9c43b" />
+<img width="1272" height="2644" alt="44644" src="https://github.com/user-attachments/assets/721f54d2-804c-4c79-b3f7-8fa84a3b1079" />
+<img width="1272" height="2646" alt="44646" src="https://github.com/user-attachments/assets/3b1ecbdb-fc8a-4bfb-8dbe-ba3f0dd3c8c7" />
+<img width="2675" height="1197" alt="44650" src="https://github.com/user-attachments/assets/1dd8ff38-c067-456e-a6b8-d0ac0056248d" />
+
 
 ---
 
